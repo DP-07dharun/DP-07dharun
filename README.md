@@ -18,7 +18,7 @@
 - 🎓 Master of Science & Technology in **Software Engineering & Digital Transformation** (2025 – 2027) — ESIGELEC & INSA Rouen Normandie
 - 🎓 Bachelor of Science in **Computer Technology** (2025) — Dr. G. R. Damodaran College of Science, Coimbatore, India
 - 🤖 Currently on the **perception team of a humanoid port-surveillance robot**: computer vision, YOLO object detection, OpenCV, PyTorch
-- 🌍 Used to international, multidisciplinary teams · English (professional), French (A2, learning), Tamil (native)
+- 🌍 Used to international, multidisciplinary teams · English (professional), French (A2, learning)
 
 ## Featured projects
 
